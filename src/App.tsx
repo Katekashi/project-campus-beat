@@ -7,7 +7,7 @@ import { ClubList } from './pages/ClubList';
 
 export default function App() {
   return (
-    <div className="text-3xl font-bold underline">
+    <div className="text-3xl font-bold underline text-red-700">
       TEST - Tailwind is working!
     </div>
   )
